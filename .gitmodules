@@ -1,2 +1,4 @@
 [submodule]
 	ignore = untracked
+[submodule "."]
+	ignore = untracked
