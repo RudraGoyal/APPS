@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600234749485",
+    "project_id": "moneytrail-b22da",
+    "storage_bucket": "moneytrail-b22da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600234749485:android:664268ae0a3b1afb3752a4",
+        "android_client_info": {
+          "package_name": "com.moneytrail.moneytrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600234749485-bee6qfukm304vuuo7og373716sc7loa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOHUfBU7_ULB958J4KBqmMtpF5P1S-UNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600234749485-bee6qfukm304vuuo7og373716sc7loa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

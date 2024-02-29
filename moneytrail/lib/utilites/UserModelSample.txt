@@ -1,0 +1,12 @@
+UserModel
+- creationDate
+- lastRefreshDate (get this date if this is more than a week then refresh else lite)
+- total savings
+- expenditure till date
+- income till date
+- name 
+- saving/month - totalSavings/monthOfCreationDate
+- week
+  - balance for the week
+  - income for the week
+  - outcome for the week
